@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://jfprimeau-genielab.github.io/rosy_act3-solo/](https://jfprimeau-genielab.github.io/rosy_act3-solo/)
+> Ouvrir cette page à [https://jfprimeau-genielab.github.io/rosy_activite3_communication_solo/](https://jfprimeau-genielab.github.io/rosy_activite3_communication_solo/)
 
 ## Utiliser comme extension
 
@@ -8,22 +8,22 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Nouveau projet**
 * cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/jfprimeau-genielab/rosy_act3-solo** et importez
+* recherchez **https://github.com/jfprimeau-genielab/rosy_activite3_communication_solo** et importez
 
-## Éditer ce projet ![Badge du statut de la compilation](https://github.com/jfprimeau-genielab/rosy_act3-solo/workflows/MakeCode/badge.svg)
+## Éditer ce projet ![Badge du statut de la compilation](https://github.com/jfprimeau-genielab/rosy_activite3_communication_solo/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/jfprimeau-genielab/rosy_act3-solo** et cliquez sur importer
+* collez **https://github.com/jfprimeau-genielab/rosy_activite3_communication_solo** et cliquez sur importer
 
 ## Aperçu des blocs
 
 Cette section montre le code des blocs du dernier commit dans la branche master.
 Cette image peut prendre quelques minutes pour être actualisée.
 
-![Un rendu de la vue des blocs](https://github.com/jfprimeau-genielab/rosy_act3-solo/raw/master/.github/makecode/blocks.png)
+![Un rendu de la vue des blocs](https://github.com/jfprimeau-genielab/rosy_activite3_communication_solo/raw/master/.github/makecode/blocks.png)
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
