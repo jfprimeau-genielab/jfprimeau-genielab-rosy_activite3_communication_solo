@@ -1,12 +1,12 @@
-function TrouverUneÉtoile () {
-    étoile_x = randint(-1000, 1000)
-    étoile_y = randint(-1000, 1000)
+function TrouverUneEtoile () {
+    étoile_x = randint(-1023, 1023)
+    étoile_y = randint(-1023, 1023)
 }
 let coord_y = false
 let coord_x = false
 let étoile_y = 0
 let étoile_x = 0
-TrouverUneÉtoile()
+TrouverUneEtoile()
 basic.forever(function () {
     serial.writeLine("Nouvelle lecture")
     serial.writeValue("x", input.acceleration(Dimension.X))
@@ -22,11 +22,11 @@ basic.forever(function () {
         coord_y = false
     }
     if (coord_x == true && coord_y == true) {
-        serial.writeLine("Étoile trouvée!")
+        serial.writeLine("Étoile trouvée! " + "X : " + input.acceleration(Dimension.X) + ", Y : " + input.acceleration(Dimension.Y))
         basic.showIcon(IconNames.Surprised)
         basic.pause(5000)
         basic.clearScreen()
-        TrouverUneÉtoile()
+        TrouverUneEtoile()
     }
     basic.pause(100)
 })

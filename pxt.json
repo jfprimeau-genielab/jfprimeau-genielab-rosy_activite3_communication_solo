@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Rosy_Act3_Solo.md"
     ],
     "testFiles": [
         "test.ts"
